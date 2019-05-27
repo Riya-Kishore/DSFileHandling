@@ -1,0 +1,23 @@
+Computer programming is a way of giving computers instructions about what they should do next. 
+These instructions are known as code, and computer programmers 
+write code to solve problems or perform a task.
+
+The end goal is to create something: that could mean anything from a web page, 
+or a piece of software, or even just a pretty picture. 
+That’s why computer programming is often described as a mix between art and 
+science; it’s technical and analytical, yet creative at the same time.
+
+Front-end development involves working with code that produces the elements 
+that users can see and interact with; it’s all about how a website looks and feels.
+
+Back-end web developers make sure the website works as it should do, 
+and the code they write is normally invisible to users. Back-end web 
+developers work with databases that store information such as customer details, 
+and servers which are where databases (virtually) live.
+
+The three main languages front-end developers need to know are:
+
+    HTML
+    Javascript
+    CSS
+
